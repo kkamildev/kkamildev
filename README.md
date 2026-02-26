@@ -11,10 +11,6 @@ I love planning and bringing my ideas to life ❤️
 - **Databases:** ```Mysql```, ```MongoDB(future)```
 - **Editors and tools:** ```VS code```, ```PyCharm```, ```MySQL Workbench```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamildev&layout=compact&theme=radical)  
-  
-![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamildev&show_icons=true&theme=radical)
-
 ### 📌 About me:
 - 🏠 I live in Poland near ```Kraków```
 - 🧑‍🎓 I am student at TK No. 25 (high school) in Krakow, wherethe curriculum includes computer science, IT, programming, software developing
