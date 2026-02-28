@@ -4,11 +4,11 @@ I like to learn and build cool IT projects ```(web designs, games, applications,
 I love planning and bringing my ideas to life ❤️
 ### 🧑‍💻 Technologies which I used:
 - **Basis:** ```HTML```, ```CSS```, ```Java Script```
-- **Languages:** ```Java Script```, ```C#```, ```Python```, ```C++(future)```, ```Dart(future)```
+- **Languages:** ```Java Script```, ```C#```, ```Python```, ```C++```, ```Dart(future)```
 - **Frontend:** ```React.js```, ```Flutter(future)```
 - **Backend:** ```Node.js```, ```Express.js```, ```Flask```
 - **Frameworks:** ```Tailwind```
-- **Databases:** ```Mysql```, ```MongoDB(future)```
+- **Databases:** ```Mysql```, ```MongoDB```
 - **Editors and tools:** ```VS code```, ```PyCharm```, ```MySQL Workbench```
 
 ### 📌 About me:
