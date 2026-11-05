@@ -1,8 +1,8 @@
 
 <img width="1200" height="400" alt="kofiBanner" src="https://github.com/user-attachments/assets/f59443c9-c7db-46c0-a381-2314167281c7" />
 
-![Email](https://img.shields.io/badge/Email-kamil.kijak@pixlesofte.com-green?logo=gmail)
-![@kkamildev](https://img.shields.io/badge/instagram-@kkamildev-green?logo=instagram)
+[![Email](https://img.shields.io/badge/Email-kamil.kijak@pixlesofte.com-green?logo=gmail&logoColor=white)](mailto:kamil.kijak@pixlesofte.com)
+[![instagram profile](https://img.shields.io/badge/Instagram-@kkamildev-green?logo=instagram&logoColor=white)](https://instagram.com/kkamildev)
 ![Status](https://img.shields.io/badge/Focus-Indie_Tools_%26_Architecture-green)
 
 # Welcome to my dev place, I'm Kkamildev
