@@ -24,7 +24,7 @@ Also I am creating games as hobby
 # Get in Touch
 I'm always open to connecting with other developers, discussing software design, or exchanging ideas 
 
-**Contact:** The best way to contact me is via the email address listed on my GitHub profile
+**Contact:** The best way to contact me is via the Discord profile listed on my GitHub profile - if you don't have it, you can use email
 
 ![](https://via.placeholder.com/1000x3/2ea44f/2ea44f.png)
 
